@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmF6ZVlOcG91aUZtbnU4eFNFMlpZRXYyZTNYd3xBQ3Jtc0treVE0dUJKWWFlZkQ3SHZUem9aakVVejhrSWZ2OXFQdTZmUkJ2aV9OcnBUaW1CTkJEMnIzMjUzU2NOd2FGdXNmMnBZcW9OMGFKdnlYSWRlVG5HcG93a3pQenltRU02dXRpcy15cWhhV1NmOGp2MGZsWQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0" >
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="center">A passionate web developer</h3>
 
 - 🌱 I’m currently learning **React, Java**
